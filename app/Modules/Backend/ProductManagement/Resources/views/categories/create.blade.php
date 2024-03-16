@@ -40,7 +40,7 @@
     </div>
 @endsection
 @push('js')
-@include('productmanagement::categories.product-js')
+
 
 <script src="{{ asset('plugins/image-uploader/image-uploader.min.js') }}"></script>
 
